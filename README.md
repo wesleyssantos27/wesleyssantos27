@@ -20,4 +20,13 @@
   <img align="center" alt="wesley-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="wesley-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="wesley-powerbi" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg">
+  <img align="center" alt="wesley-tableau" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
+</div>
+
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/wesleyssantos-engineer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wesleyssantos27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
 </div>
