@@ -21,6 +21,11 @@
   <img align="center" alt="wesley-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="wesley-powerbi" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg">
   <img align="center" alt="wesley-tableau" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
+  <img align="center" alt="wesley-dbt" height="30" width="40" src="https://github.com/dbt-labs/dbt-styleguide/blob/master/_includes/icons/dbt-logo-full.svg">
+  <img align="center" alt="wesley-airflow" height="30" width="40" src="https://www.svgrepo.com/show/353380/airflow.svg">
+  <img align="center" alt="wesley-hadoop" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/hadoop.svg">
+  <img align="center" alt="wesley-vba" height="30" width="40" src="https://www.svgrepo.com/show/374159/vba.svg">
+  <img align="center" alt="wesley-vba" height="30" width="40" src="https://w7.pngwing.com/pngs/751/849/png-transparent-microsoft-excel-computer-software-microsoft-office-microsoft-rectangle-microsoft-brand.png">
 </div>
 
 ##
