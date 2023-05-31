@@ -31,6 +31,9 @@
   <img align="center" alt="wesley-spark" height="30" width="40" src="https://camo.githubusercontent.com/e16a84dbc3c4c49336a788758a78509282238c352304da43892f42b32d9607f6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66332f4170616368655f537061726b5f6c6f676f2e7376672f3235363070782d4170616368655f537061726b5f6c6f676f2e7376672e706e67">
 </div>
 
+  
+![Snake animation](https://github.com/wesleyssantos27/wesleyssantos27/blob/output/github-contribution-grid-snake.svg)
+  
 ##
 
 <div> 
